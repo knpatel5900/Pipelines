@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Builed succesfully"
+echo 'Builed succesfully';
